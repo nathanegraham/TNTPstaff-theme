@@ -37,7 +37,8 @@ and Blueprint http://www.blueprintcss.org/
  * 13 - Widgets & Sidebar
  * 14 - Footer
  * 15 - Error 404 Page
- * 16 - Media Queries
+ * 16 - Custom
+ * 17 - Media Queries
  * --------------------------------------------------------------------------------------------
  */
 
@@ -1604,6 +1605,18 @@ video {
 .error-404 { 
 	text-align: center;
 }
+
+/* =Custom Styles
+----------------------------------------------- */
+
+.site-branding {
+text-align:left;
+}
+
+.type-page .entry-header {
+display:none;
+}
+
 
 /* =Media Queries
 ----------------------------------------------- */
