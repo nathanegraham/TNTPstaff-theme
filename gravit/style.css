@@ -224,6 +224,7 @@ img {
 	color: #9e9e9e;	
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
+    display:none;
 }
 .site-title {
 	font-family: 'Lustria', sans-serif;
@@ -232,7 +233,7 @@ img {
 	font-size: 52px;
 	line-height: 56px;
 	font-weight: 700;
-	text-align: center;
+	text-align: left;
 	text-decoration: none;
 	color: #4B4A47;
 }
@@ -1609,13 +1610,6 @@ video {
 /* =Custom Styles
 ----------------------------------------------- */
 
-.site-branding {
-text-align:left;
-}
-
-.type-page .entry-header {
-display:none;
-}
 
 
 /* =Media Queries
