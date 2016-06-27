@@ -12,8 +12,8 @@
 	</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="site-info">
-			<?php echo esc_attr(get_theme_mod('footer_text', 'Gravit Theme powered by WordPress')); ?>
+		<div class="site-info"><a href="http://tntp.org">© 2016 TNTP |
+            All Rights Reserved</a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
