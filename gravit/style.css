@@ -224,7 +224,6 @@ img {
 	color: #9e9e9e;	
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
-    display:none;
 }
 .site-title {
 	font-family: 'Lustria', sans-serif;
@@ -767,6 +766,7 @@ a:active {
 }
 .type-page .entry-header {
 	padding: 20px;
+    display:none;
 }
 .entry-title a {
 	text-decoration: none;
